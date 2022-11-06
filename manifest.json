@@ -1,0 +1,15 @@
+
+{
+    "name": "Foxford Hide Answers Extension",
+    "action": {
+        "default_title": "Click to show an alert"
+    },
+    "version": "1.0.0",
+    "description": "The extension for hiding valid and invalid answers in foxford.ru",
+    "manifest_version": 3,
+    "author": "Maksim Sergin",
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+        "service_worker": "index.js"
+    }
+}
