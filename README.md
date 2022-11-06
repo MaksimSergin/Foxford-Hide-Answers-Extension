@@ -23,18 +23,22 @@
 ---
 ## Скриншоты:
 <img src="assets/images/answers_before.png" width="80%"></img>
+
 <img src="assets/images/answers_after.png" width="80%" />
 
 ----
 <img src="assets/images/input_answers_before.png" width="80%"/>
+
 <img src="assets/images/input_answers_after.png" width="80%"/>
 
 ----
 <img src="assets/images/checkbox_answers_before.png" width="80%"/>
+
 <img src="assets/images/checkbox_answers_after.png" width="80%"/>
 
 ----
 <img src="assets/images/moving_answers_before.png" width="80%"/>
+
 <img src="assets/images/moving_answers_after.png" width="80%"/>
 
 ----
